@@ -1,5 +1,4 @@
 # fruit_juice_app
-CREATED A BASIC STREAMLIT APP WITH LISTS AND DICTIONARIES
 import streamlit as st
 
 # Sample data dictionary
